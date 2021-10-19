@@ -10,8 +10,6 @@ Hola! Mi nombre es Francisco Manuel Redondo Jiménez y soy desarrollador WEB. Me
 📫 Puedes contastarme a traves de mi sitio web fmredondo.com o desde el correo de info@fmredondo.com <br>
 ⚡ Lo que mas me divierte es segun formandome y aprender a desarrollar todo lo que se me pase por la mente! <br>
 
-<img src="futurista.gif" alt="gif futurista" width="100%"/>
-
 
 <!--
 **FMRedondo/FMRedondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
