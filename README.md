@@ -1,4 +1,4 @@
-### Buenas 👋
+## Buenas 👋
 
 Hola! Mi nombre es Francisco Manuel Redondo Jiménez y soy desarrollador WEB. Me apasiona todo lo relacionado con la tecnología, sobre todo todo la creación de sitios web.
 
