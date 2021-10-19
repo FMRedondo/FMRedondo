@@ -1,6 +1,6 @@
 ### Buenas 👋
 
-soy Francisco Manuel Redondo Jiménez
+Soy Francisco Manuel Redondo Jiménez
 
 <!--
 **FMRedondo/FMRedondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
