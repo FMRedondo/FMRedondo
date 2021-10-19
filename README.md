@@ -5,7 +5,7 @@ Hola! Mi nombre es Francisco Manuel Redondo Jiménez y soy desarrollador WEB. Me
 
 <center>
 
-![image](dinosaurio.gif)
+![image](futurista.gif)
 
 </center>
 <!--
