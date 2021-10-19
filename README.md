@@ -15,6 +15,7 @@ Hola! Mi nombre es Francisco Manuel Redondo Jiménez y soy desarrollador WEB. Me
 <style>
 .text-mono{
   display:none;
+  }
 </style>
 
 <!--
