@@ -1,6 +1,6 @@
 ## Buenas 👋
 
-Hola! Mi nombre es Francisco Manuel Redondo Jiménez y soy desarrollador WEB. Me apasiona todo lo relacionado con la tecnología, sobre todo todo la creación de sitios web.
+Hola! Mi nombre es Francisco Manuel Redondo Jiménez y soy desarrollador WEB. Me apasiona todo lo relacionado con la tecnología, sobre todo todo la creación de sitios web.<br>
 🎓 Entre mis estudios se encuentra Tecnico en Sistemas Microinformaticos y Redes y tecnico superior en desarrollo de aplicaciones web <br>
 🔭 Actualmente estoy trabajando, en el desarrollo de una plataforma dedicada, realizada con Laravel, Jquery, Ajax, Tailwind, etc <br>
 🌱 En estos momentos me estoy centrando en mejoras las tecnologias que uso para la creación del backend del sitio web. <br>
