@@ -1,6 +1,8 @@
 ### Buenas 👋
 
-Soy Francisco Manuel Redondo Jiménez, desarrollador WEB en almería.
+Hola! Mi nombre es Francisco Manuel Redondo Jiménez y soy desarrollador WEB. Me apasiona todo lo relacionado con la tecnología, sobre todo todo lo relacionado con la creación de sitios web.
+
+
 <center>
 
 ![image](dinosaurio.gif)
