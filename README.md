@@ -1,9 +1,11 @@
 ### Buenas 👋
 
 Soy Francisco Manuel Redondo Jiménez, desarrollador WEB en almería.
+<center>
 
 ![image](dinosaurio.gif)
 
+</center>
 <!--
 **FMRedondo/FMRedondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
