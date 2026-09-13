@@ -1,17 +1,40 @@
-![Francisco Manuel Redondo](Francisco%20Redondo.png "FMRredondo")
+<div align="center">
 
-✨ ¡Bienvenido a mi perfil de GitHub!
+  <img src="./FREDONDO.jpg" alt="FREDONDO - Full Stack Developer" width="100%" />
 
-### 🔵 Sobre mi
+  <br />
+  <br />
 
-🎓 Entre mis estudios se encuentra Técnico en Sistemas Microinformáticos y Redes y Técnico superior en desarrollo de aplicaciones web. <br>
-🔭 Actualmente estoy trabajando, en el desarrollo de varias aplicaciones web realizas con Svelte, Vue, Laravel entre otras <br>
-🌱 En estos momentos me estoy centrando en conocer mas framekork y librerias para el frontEnd. <br>
-💬 Puedes preguntarme cualquier cosa relacionada con la tecnología y el desarrollo web, que si tengo la respuesta te la daré. <br>
-📫 Puedes contactarme a través de mi sitio web fmredondo.com o desde el correo de info@fmredondo.com <br>
-⚡ ¡Lo que más me divierte es seguir formándome y aprender a desarrollar todo lo que se me pase por la mente! <br>
+  <a href="https://fredondo.dev">
+    <img src="https://img.shields.io/badge/Website-fredondo.dev-0D1117?style=for-the-badge&logo=googlechrome&logoColor=38BDF8&labelColor=161B22" alt="Web" />
+  </a>
+  <a href="https://www.linkedin.com/in/fmredondo/">
+    <img src="https://img.shields.io/badge/LinkedIn-FMRedondo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fredondodev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-fredondodev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
+</div>
 
-### 🔵 Me puedes encontrar en:
-* [Portafolio](https://fmredondo.es)
-* [linkedin](https://www.linkedin.com/in/fmredondo/)
+<br />
+
+<table width="100%">
+<tr>
+<td>
+
+```bash
+# 🔴 🟡 🟢  fredondo@dev-environment:~
+
+❯ whoami
+Francisco Manuel Redondo Jiménez (FREDONDO)
+
+❯ cat profile.json
+{
+  "role": "Full Stack Engineer",
+  "stack": ["Web", "Mobile", "Cloud & DevOps"],
+  "status": "Building digital products"
+}
+
+❯ open portfolio
+🚀 Live at [https://fredondo.dev](https://fredondo.dev)
